@@ -1,6 +1,6 @@
 # ytbviews
 
-Captura views e subscritos de um canal especificado.
+Captura views e subscritos de um canal especificado do youtube.
 
   - Utiliza Python3.5
 
